@@ -24,4 +24,4 @@ Desenvolvo modelos analíticos para a infraestrutura brasileira no Laboratório 
 * 💼 [Meu LinkedIn](COLE_AQUI_O_SEU_LINK)
 
 ---
-*"Utilizando dados para otimizar os fluxos da logística nacional."*
+*Utilizando dados para otimizar os fluxos da logística nacional.*
